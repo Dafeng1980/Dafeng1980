@@ -4,7 +4,18 @@
 
 ## About Me
 
-I am an Electronic Failure Analysis Engineer with over 20 years of experience in troubleshooting AC/DC & DC/DC power supplies and embedded computing.
+I am an Electronic Failure Analysis Engineer with over 20 years of experience in diagnosing, analyzing, and resolving complex electronic issues. Expertise in failure analysis techniques, root cause identification, and implementing corrective actions to improve product reliability and performance. Strong background in electronic circuit design, reliability engineering, and quality assurance.
+
+### Core Competencies
+•	Failure Analysis Techniques
+•	Root Cause Analysis
+•	Reliability Engineering
+•	Electronic Circuit Design
+•	Analytical and Problem-Solving Skills
+•	Data Collection and Statistical Analysis
+•	Technical Reporting and Documentation
+•	Advanced knowledge of testing equipment and tools
+
 
 ### Technical Skills & Specializations
 
