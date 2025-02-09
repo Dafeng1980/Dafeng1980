@@ -21,5 +21,7 @@ Experienced Electronic Failure Analysis Engineer with over 20 years of expertise
 
 ## Projects
 
-### Project 1: [MQTT-PMBUS](https://github.com/Dafeng1980/ESP8266_PMBUS_MAIN)
+### PMBUS Project: [MQTT-PMBUS](https://github.com/Dafeng1980/ESP8266_PMBUS_MAIN)
+### FA Project: [iTHD-ISSUE](https://github.com/Dafeng1980/FA_Project/tree/main/PFC_iTHD_ISSUE)
+
 
