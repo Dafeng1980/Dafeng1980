@@ -2,16 +2,16 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Dafeng1980)
 
-### Electronic Failure Analysis Engineer
-Experienced Electronic Failure Analysis Engineer with over 20 years of expertise in diagnosing, analyzing, and resolving complex electronic failures. Skilled in advanced failure analysis techniques, root cause identification, and corrective action implementation to enhance product reliability and performance. Strong background in electronic circuit design, reliability engineering, and quality assurance, with a proven ability to optimize designs and improve system efficiency.
+## Electronic Failure Analysis Engineer
+Experienced Electronic Failure Analysis Engineer with over 20 years of expertise in diagnosing, analyzing, and resolving complex electronic failures. Skilled in advanced failure analysis techniques, root cause identification, and corrective action implementation to enhance product reliability and performance. 
 
-### Core Competencies
+## Core Competencies
 Failure Analysis & Root Cause Investigation
 Electronic Circuit Design & Troubleshooting
 Technical Reporting & Documentation
 Proficiency in Testing Equipment & Diagnostic Tools
 
-### Technical Skills & Specializations
+## Technical Skills & Specializations
 
 PCB Design: Proficient in designing circuit boards using Eagle, KiCad, and Allegro.
 Microcontrollers: Experienced in developing electronic diagnostic tools with Atmel, STM32, and ESP8266/ESP32 microcontrollers.
