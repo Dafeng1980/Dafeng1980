@@ -2,29 +2,21 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/Dafeng1980)
 
-## About Me
-
-I am an Electronic Failure Analysis Engineer with over 20 years of experience in diagnosing, analyzing, and resolving complex electronic issues. Expertise in failure analysis techniques, root cause identification, and implementing corrective actions to improve product reliability and performance. Strong background in electronic circuit design, reliability engineering, and quality assurance.
+### Electronic Failure Analysis Engineer
+Experienced Electronic Failure Analysis Engineer with over 20 years of expertise in diagnosing, analyzing, and resolving complex electronic failures. Skilled in advanced failure analysis techniques, root cause identification, and corrective action implementation to enhance product reliability and performance. Strong background in electronic circuit design, reliability engineering, and quality assurance, with a proven ability to optimize designs and improve system efficiency.
 
 ### Core Competencies
-- **Failure Analysis Techniques**
-- **Root Cause Analysis**
-- **Reliability Engineering**
-- **Electronic Circuit Design**
-- **Analytical and Problem-Solving Skills**
-- **Data Collection and Statistical Analysis**
-- **Technical Reporting and Documentation**
-- **Advanced knowledge of testing equipment and tools**
-
+Failure Analysis & Root Cause Investigation
+Electronic Circuit Design & Troubleshooting
+Technical Reporting & Documentation
+Proficiency in Testing Equipment & Diagnostic Tools
 
 ### Technical Skills & Specializations
 
-- **PCB Design**: Skilled in using PCB design software like Eagle, KiCad, and Allegro to create circuit boards.
-- **Microcontrollers**: Proficient in developing electronic diagnostic tools using Atmel, STM32, and ESP8266/32 microcontrollers.
-- **IoT and Networking**: Familiar with MQTT IoT applications and Linux system network services.
-- **Digital Hardware/Software**: Knowledgeable in CPLD/FPGA, U-Boot, and other digital hardware/software.
-- **Power Supplies(CRPS)**: Expertise in various topologies of switch-mode power supplies, including bridgeless PFC and LLC applications.
-In-depth understanding of CRPS server power supplies and PMBus.
+PCB Design: Proficient in designing circuit boards using Eagle, KiCad, and Allegro.
+Microcontrollers: Experienced in developing electronic diagnostic tools with Atmel, STM32, and ESP8266/ESP32 microcontrollers.
+IoT & Networking: Familiar with MQTT-based IoT applications and Linux system network services.
+Power Supply Systems (CRPS): Expertise in switch-mode power supply topologies, including bridgeless PFC and LLC applications. Extensive understanding of CRPS server power supplies and PMBus protocols.
 
 
 ## Projects
